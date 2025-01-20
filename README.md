@@ -40,10 +40,10 @@ During the development process, various principles and techniques were applied, 
 This project was completed as part of a team assignment for the Algorithms course. The game was developed with a collaborative approach among the team members, aiming to combine entertainment with health education. 🎓
 
 **Members:**
--Delgado Corrales, Piero Gonzalo
--Chinchihualpa Saldarriaga, Luis Sebastian
--Fu Melgar, Bryan Chian
--Huilca Chipana, Gustavo
+- Delgado Corrales, Piero Gonzalo
+- Chinchihualpa Saldarriaga, Luis Sebastian
+- Fu Melgar, Bryan Chian
+- Huilca Chipana, Gustavo
 
 ---
 
